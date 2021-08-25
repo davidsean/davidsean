@@ -1,5 +1,6 @@
 ### dav
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cSDes1gn.visitor-badge)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsean)](https://github.com/davidsean/github-readme-stats)
 
 <!--
