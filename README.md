@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my computer
 - 🌱 I’m currently learning how to edit Github profiles
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 👯 I’m looking to collaborate on listening
+- 🤔 I’m looking for help with getting up
+- 💬 Ask me about secret repositories
+- 📫 How to reach me: reach out
 - 😄 Pronouns: anti-verbs?
-- ⚡ Fun fact: My name rhymes with obscene
+- ⚡ Fun fact: My name rhymes with scene
