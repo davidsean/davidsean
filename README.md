@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 
 -->
-- ⚡ Fun fact: My name rhymes with scene
+- ⚡ Fun fact: My last name rhymes with scene
